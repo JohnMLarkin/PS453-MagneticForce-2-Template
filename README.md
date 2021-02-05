@@ -1,1 +1,1 @@
-# PS453-MagneticForce-2-Template
+# Magnetic Force: Quantitative Analysis
